@@ -2,3 +2,4 @@ crewai
 crewai_tools
 streamlit
 youtube-transcript-api
+chromadb>=0.4.0
